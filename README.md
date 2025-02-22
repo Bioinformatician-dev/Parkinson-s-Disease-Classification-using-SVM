@@ -11,3 +11,10 @@ This project implements a Support Vector Machine (SVM) model to classify individ
       * 1 → Parkinson’s Disease
       * 0 → Healthy
 * Other Features: Various voice-based metrics such as jitter, shimmer, and fundamental frequency.
+
+# Installation & Setup
+# 1. Clone the Repository
+```bash
+   git clone https://github.com/your-username/parkinsons-svm-classifier.git
+cd parkinsons-svm-classifier
+```
