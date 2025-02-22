@@ -3,7 +3,7 @@
 This project implements a Support Vector Machine (SVM) model to classify individuals as Healthy or Parkinson’s patients based on biomedical voice measurements. The dataset is sourced from Kaggle and includes multiple acoustic features extracted from voice recordings.
 
 # Dataset
-* Source: Parkinson's Disease Dataset on Kaggle
+* Source: Parkinson's Disease Dataset on Kaggle('https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set/data')
 * Filename: parkinsons.data
 * Attributes:
   * name: Unique identifier for each patient
