@@ -23,10 +23,11 @@ cd parkinsons-svm-classifier
   pip install numpy pandas scikit-learn matplotlib seaborn kaggle
 ```
 # Evaluation Metrics
-Accuracy Score: Measures overall classification correctness.
-Confusion Matrix: Shows the number of correct and incorrect predictions.
-Classification Report: Provides precision, recall, and F1-score.
-✅ Expected Model Performance:
+* Accuracy Score: Measures overall classification correctness.
+* Confusion Matrix: Shows the number of correct and incorrect predictions.
+* Classification Report: Provides precision, recall, and F1-score.
+
+# ✅ Expected Model Performance:
 
 * Accuracy: ~85-90%
 * Precision & Recall: Depend on feature scaling and hyperparameter tuning.
