@@ -15,7 +15,7 @@ This project implements a Support Vector Machine (SVM) model to classify individ
 # Installation & Setup
 # 1. Clone the Repository
 ```bash
-   git clone https://github.com/your-username/parkinsons-svm-classifier.git
+   git clone https://github.com/Bioinformatician-dev/parkinsons-svm-classifier.git
 cd parkinsons-svm-classifier
 ```
 # 2. Install Dependencies
